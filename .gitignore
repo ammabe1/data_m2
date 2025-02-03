@@ -162,7 +162,15 @@ cython_debug/
 #.idea/
 
 archive.zip
-week-2.ipynb
 ks-projects-201801.csv
+<<<<<<< HEAD
 archive
 ks-projects-201612.csv
+=======
+archive.zip
+.DS_Store
+ks-projects-201612.csv
+data
+kickstarter.db
+seequl_answers.ipynb
+>>>>>>> d8b1728ba11befd7175c78d65d5bc68b5f5c1615
